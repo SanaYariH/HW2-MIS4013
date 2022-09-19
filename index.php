@@ -7,19 +7,21 @@
   <p style="color:red; text-align:center;">Enter your Name and Email Address please!</p>
   <br></br>
   
-  <h2> POST - Function </h2>
+  <h2 style="text-align:center;"> GET - Function </h2>
+  <form action="welcome_get.php" method="get">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
+    <br></br>
+  
+  <h3 style="text-align:center;"> POST - Function </h3>
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
   <br></br>
   
-  <h3> GET - Function </h3>
-  <form action="welcome_get.php" method="get">
-Name: <input type="text" name="name"><br>
-E-mail: <input type="text" name="email"><br>
-<input type="submit">
-    <br></br>
+  
 </form>
 </form>
 </html>
