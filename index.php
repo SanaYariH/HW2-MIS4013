@@ -17,8 +17,8 @@ E-mail: <input type="text" name="email"><br>
     <br></br>
   
   <h2 style="text-align:center;"> POST - Function </h2>
-<p style="text-align:center;">
-<form action="handlepost.php" method="post">
+  <p style="text-align:center;">
+  <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
