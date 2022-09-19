@@ -7,8 +7,8 @@
   <p style="color:red; text-align:center;">Enter your Name and Email Address please!</p>
   <br></br>
   
-  <h2 style="text-align:center;"> GET - Function </h2>
   <p style="text-align:center;">
+  <h2 style="text-align:center;"> GET - Function </h2>
   <form action="welcome_get.php" method="get">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
@@ -16,8 +16,8 @@ E-mail: <input type="text" name="email"><br>
     </p>
     <br></br>
   
-  <h2 style="text-align:center;"> POST - Function </h2>
   <p style="text-align:center;">
+  <h2 style="text-align:center;"> POST - Function </h2>
   <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
