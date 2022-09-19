@@ -2,7 +2,9 @@
 <!doctype html>
 <html lang = "en">
 <body>
-  <h1> Welcome to Sana Yari's Homework 2!! </h1>
+  
+  <h1 style="color:blue; text-align:center;">Welcome to Sana Yari's Homework 2!</h1>
+  <p style="color:red; text-align:center;">Enter your Name and Email Address please!</p>
   <br></br>
   
   <h2> POST - Function </h2>
