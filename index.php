@@ -5,6 +5,7 @@
   <h1> Welcome to Sana Yari's Homework 2!! </h1>
   <p></p>
   <p></p>
+  <br></br>
   
   <h2> POST - Function </h2>
 <form action="handlepost.php" method="post">
