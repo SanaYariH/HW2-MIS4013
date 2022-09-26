@@ -1,7 +1,5 @@
 <?php require_once("header.php"); ?>
-<!doctype html>
-<html lang = "en">
-<body>
+
   
   <h1 style="color:blue; text-align:center;">Welcome to Sana Yari's Homework 2!</h1>
   <p style="color:red; text-align:center;">Enter your Name and Email Address please!</p>
