@@ -18,7 +18,7 @@
 
 
   <h2 style="text-align:center;"> GET - Function </h2>
-  <form action="welcome_get.php" method="get">
+  <form action="handleget.php" method="get">
   <p style="text-align:center;"> Name: <input type="text" name="name"></p><br>
   <p style="text-align:center;"> E-mail: <input type="text" name="email"></p><br>
     <p style="text-align:center;"><input type="submit"></p>
