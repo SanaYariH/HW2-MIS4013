@@ -1,5 +1,11 @@
 <?php require_once("header.php"); ?>
+<?php
+function writeMsg() {
+  echo "Hello world!";
+}
 
+writeMsg(); // call the function
+?>
   
   <h1 style="color:blue; text-align:center;">Welcome to Sana Yari's Homework 2!</h1>
   <p style="color:red; text-align:center;">Enter your Name and Email Address please!</p>
